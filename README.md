@@ -1,6 +1,7 @@
 #Student Dashboard Full-Stack Application
 This is a full-stack application for managing student quizzes and announcements. The application consists of a React frontend and an Express.js backend.
 Project Structure
+
 student-dashboard
  ┣ 📂 frontend (React + TypeScript)
  ┃ ┣ 📂 src
